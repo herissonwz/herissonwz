@@ -27,5 +27,5 @@ i'm whasley
  
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+![snake gif](https://github.com/herissonwz/herissonwz/blob/output/github-contribution-grid-snake.svg)
 
